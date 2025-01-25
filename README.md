@@ -1,7 +1,8 @@
 # Joran Hennion
 _[joran.mussennestje.be](https://joran.mussennestje.be/)_ <br />
+My website and handle (yesnt.dev) are still a work in progress
 
-# Web developer<br />
+# Web developer
 | ~~css~~ tailwind ofc | html/Jsx/tsx | react | nextjs |<br />
 
 # Minecraft developer
