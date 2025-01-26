@@ -1,6 +1,6 @@
 # Joran Hennion
 _[joran.mussennestje.be](https://joran.mussennestje.be/)_ <br />
-My website and handle (yesnt.dev) are still a work in progress
+website coming soon on tectrix.dev
 
 # Web developer
 | ~~css~~ tailwind ofc | html/Jsx/tsx | react | nextjs |<br />
