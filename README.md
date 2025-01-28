@@ -14,7 +14,7 @@ discord.mussennestje.be
 
 **[contact me](mailto:gas-overblown-hazy@duck.com?subject=[GitHub]%20Source:%20profile%20readme)** <br /><br />
 My public ssh key (main): <br />
-```ssh - add me sneaky bastard - send me an email - get in touch ;) I'm always looking for people/contributors
+```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICF3M4Z3x4IO/8WaLz2MGzapawSNqWb4yBm+OsLAh41T
 ```
 Laptop:
