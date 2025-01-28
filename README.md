@@ -1,9 +1,8 @@
 # Joran Hennion
-_[joran.mussennestje.be](https://joran.mussennestje.be/)_ <br />
-website coming soon on tectrix.dev
-
+_[tectrix.dev](https://www.tectrix.dev/)_ <br />
+<br />
 # Web developer
-| ~~css~~ tailwind ofc | html/Jsx/tsx | react | nextjs |<br />
+| tailwind | html/jsx/tsx | react | nextjs |<br />
 
 # Minecraft developer
 SeedLess:
@@ -28,5 +27,5 @@ haven't used windows in the past 3 years(i think) <br />
 Fedora 41 <br />
 ___
 <p align="center" width="100%">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesnt-dev&layout=compact&bg_color=0a0e12&text_color=ffffff&title_color=ffffff"> 
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tectrixdev&layout=compact&bg_color=0a0e12&text_color=ffffff&title_color=ffffff"> 
 </p>
