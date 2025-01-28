@@ -3,7 +3,6 @@ _[tectrix.dev](https://www.tectrix.dev/)_ <br />
 <br />
 # Web developer
 | tailwind | html/jsx/tsx | react | nextjs |<br />
-test
 
 # Minecraft developer
 SeedLess:
