@@ -1,6 +1,7 @@
 site_name: tectrix
 
 theme:
+  name: material
   logo: ./logo.png
   favicon: ./logo.png
   palette:
