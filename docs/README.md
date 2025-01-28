@@ -1,3 +1,5 @@
+# DISCLAIMER: this site is temporary/work in progress
+
 # Joran Hennion
 _[tectrix.dev](https://www.tectrix.dev/)_ <br />
 <br />
