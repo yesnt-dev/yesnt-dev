@@ -1,1 +1,5 @@
 site_name: tectrix
+
+theme:
+  logo: ./logo.png
+  favicon: ./logo.png
