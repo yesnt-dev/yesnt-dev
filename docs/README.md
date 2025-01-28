@@ -22,9 +22,8 @@ Laptop:
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJL0F9Vdc5KPrqCuWgGvsmtEAK8gyZiyLta1uPRtkcqi
 ```
 
-haven't used windows in the past 3 years(i think) <br />
-~~used kde, now uses gnome because it's more polished and less settings to spend too much hours configuring~~ back to kde again because gnome was to limiting and lacked good screenshot tool <br />
-Fedora 41 <br />
+haven't used windows in the past 3 years<br />
+Fedora 41 KDE <br />
 ___
 <p align="center" width="100%">
     <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tectrixdev&layout=compact&bg_color=0a0e12&text_color=ffffff&title_color=ffffff"> 
