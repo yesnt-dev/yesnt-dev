@@ -5,11 +5,11 @@ _[tectrix.dev](https://www.tectrix.dev/)_ <br />
 | tailwind | html/jsx/tsx | react | nextjs |<br />
 
 # Minecraft developer
-SeedLess:
+TecTrixMC:
 
 ```
-play.tectrix.dev
-[discord](https://discord.com/invite/XkWmXWTcwD)
+[IP]         play.tectrix.dev
+[discord]    https://discord.com/invite/XkWmXWTcwD
 ```
 
 **[contact me](mailto:gas-overblown-hazy@duck.com?subject=[GitHub]%20Source:%20profile%20readme)** <br /><br />
