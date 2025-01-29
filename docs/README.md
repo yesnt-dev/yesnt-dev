@@ -7,10 +7,10 @@ _[tectrix.dev](https://www.tectrix.dev/)_ <br />
 | tailwind | html/jsx/tsx | react | nextjs |<br />
 
 # Minecraft developer
-SeedLess:
+TecTrixMC:
 
 ```
-[IP]    play.tectrix.dev
+[IP]         play.tectrix.dev
 [discord]    https://discord.com/invite/XkWmXWTcwD
 ```
 
