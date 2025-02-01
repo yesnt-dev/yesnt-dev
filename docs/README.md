@@ -26,8 +26,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJL0F9Vdc5KPrqCuWgGvsmtEAK8gyZiyLta1uPRtkcqi
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XkWmXWTcwD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joran.hennion) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tectrixdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tectrixdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gas-overblown-hazy@duck.com) ![Github](https://img.shields.io/badge/Github-0?style=flat&logo=github&labelColor=%23212121&color=%23212121&link=https%3A%2F%2Fgithub.com%2Ftectrixdev
-)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XkWmXWTcwD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joran.hennion) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tectrixdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tectrixdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gas-overblown-hazy@duck.com) [![Github](https://img.shields.io/badge/github-0?style=flat&logo=github&labelColor=%23212121&color=%23212121&link=https%3A%2F%2Fgithub.com%2Ftectrixdev)](https://github.com/tectrixdev)
 
 
 # 💻 Tech Stack:
