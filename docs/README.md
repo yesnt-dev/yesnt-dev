@@ -1,7 +1,7 @@
 # DISCLAIMER: this website is a work in progress, just displaying my github readme for the moment
 
 # Joran Hennion<br>
-_[tectrix.dev](https://www.tectrix.dev/)_
+[_https://github.com/tectrixdev_](https://github.com/tectrixdev)
 <br />
 # Web developer
 | tailwind | html/jsx/tsx | react | nextjs |<br />
