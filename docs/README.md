@@ -1,7 +1,8 @@
 # DISCLAIMER: this website is a work in progress, just displaying my github readme for the moment
 
 # Joran Hennion<br>
-[_https://github.com/tectrixdev_](https://github.com/tectrixdev)
+[github.com/tectrixdev](https://github.com/tectrixdev) <br />
+[minecraft.tectrix.dev](https://minecraft.tectrix.dev)
 <br />
 # Web developer
 | tailwind | html/jsx/tsx | react | nextjs |<br />
@@ -10,6 +11,7 @@
 
 TecTrixMC:<br />
 ```
+[WEBSITE]    minecraft.tectrix.dev
 [IP]         play.tectrix.dev
 [discord]    https://discord.com/invite/XkWmXWTcwD
 ```
