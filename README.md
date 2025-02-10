@@ -1,6 +1,18 @@
 # Joran Hennion<br>
-_[tectrix.dev](https://www.tectrix.dev/)_
+[tectrix.dev](https://www.tectrix.dev/)<br />
+[minecraft.tectrix.dev](https://minecraft.tectrix.dev)
 <br />
+# Web developer
+| tailwind | html/jsx/tsx | react | nextjs |<br />
+
+# Minecraft developer<br />
+
+TecTrixMC:<br />
+```
+[WEBSITE]    minecraft.tectrix.dev
+[IP]         play.tectrix.dev
+[discord]    https://discord.com/invite/XkWmXWTcwD
+```
 # Web developer
 | tailwind | html/jsx/tsx | react | nextjs |<br />
 
