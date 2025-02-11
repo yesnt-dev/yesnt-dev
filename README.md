@@ -53,6 +53,6 @@ haven't used windows in the past 3 years(i think) <br />~~used kde, now uses gno
 ![](https://github-contributor-stats.vercel.app/api?username=tectrixdev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tectrixdev&icon=10&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tectrixreadme&label=Readme%20views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
