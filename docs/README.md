@@ -15,11 +15,11 @@ TecTrixMC:<br />
 [IP]         play.tectrix.dev
 [discord]    https://discord.com/invite/XkWmXWTcwD
 ```
-My public ssh key (main): <br />
+My public ssh key (main + portable): <br />
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICF3M4Z3x4IO/8WaLz2MGzapawSNqWb4yBm+OsLAh41T
+sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIJ71r8QcCdI68r9e0j6+ksn1KdHoOPRY5A9E2g7pf9eNAAAABHNzaDo=
 ```
-Laptop: <br />
+Laptop (only use if main does not work): <br />
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJL0F9Vdc5KPrqCuWgGvsmtEAK8gyZiyLta1uPRtkcqi
 ```
